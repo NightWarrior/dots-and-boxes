@@ -1,0 +1,3 @@
+To open the codes; the .pde extension files need to be opened with the Processing IDE. 
+
+Open "Processing" Folder, Run Processing.exe, Open GameServer/GameServer.pde and test_game_Client/test_game_Client.pde files in Processing to view the project and their code.

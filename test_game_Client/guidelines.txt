@@ -1,0 +1,11 @@
+1) make server
+	i)   game lobby (match making)
+	ii)  communication between 2 clients
+	iii) show list of games currently being played
+	iv)  show games currently being played (optional, todo: later)
+2) make current game a client
+	i)   allow player to set their name
+	ii)  add more colors, set randomly but unique to player (optional, todo: later)
+	iii) make game into a client
+	iv)  change client to only one player
+3) test game
